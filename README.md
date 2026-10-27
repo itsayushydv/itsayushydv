@@ -9,9 +9,9 @@
 
 ## About
  
-Data Analyst with experience turning raw data into actionable business insights. Currently expanding into machine learning, with a focus on predictive modeling and applied statistics. Solve Data Structures and Algorithms problems daily on LeetCode and Codeforces to maintain strong fundamentals in problem-solving and computational thinking.
+Data Analyst with experience turning raw data into actionable business insights. Currently expanding into machine learning, with a focus on predictive modeling and applied statistics. Solve Data Structures and Algorithms problems daily on LeetCode to maintain strong fundamentals in problem-solving and computational thinking.
  
-**Currently learning:** Advanced ML algorithms, deep learning (PyTorch/TensorFlow), MLOps
+**Currently learning:** Pattern Recognition and Machine Learning algorithms, Deep Learning and MLOps
  
 ---
 
@@ -29,10 +29,14 @@ Data Analyst with experience turning raw data into actionable business insights.
 *Consistency is the key to mastery as we know Hardwork beats Talent*
 
 <div align="center">
+
+| LeetCode Stats | 
+| :---: |
+| <a href="https://leetcode.com/Lightning-Ayush/"><img src="https://leetcard.jacoblin.cool/Lightning-Ayush?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="300"/></a> | 
   
-| LeetCode Stats | Codeforces Stats |
+<!--- | LeetCode Stats | Codeforces Stats |
 | :---: | :---: |
-| <a href="https://leetcode.com/Lightning-Ayush/"><img src="https://leetcard.jacoblin.cool/Lightning-Ayush?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="300"/></a> | <a href="https://codeforces.com/profile/Lightning-Dash"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Lightning-Dash&force_username=true&theme=dark" alt="Codeforces Stats" width="300"/></a> |
+| <a href="https://leetcode.com/Lightning-Ayush/"><img src="https://leetcard.jacoblin.cool/Lightning-Ayush?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="300"/></a> | <a href="https://codeforces.com/profile/Lightning-Dash"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Lightning-Dash&force_username=true&theme=dark" alt="Codeforces Stats" width="300"/></a> | -->
 
 </div>
 
@@ -51,7 +55,7 @@ Data Analyst with experience turning raw data into actionable business insights.
 ## 📌 Featured Projects
 
 - **[UK E-Commerce Data Analysis](https://github.com/itsayushydv/data-analytics-projects/tree/main/ecom):** End-to-end data analytics project analyzing transactional data from a UK-based online retailer covering data cleaning, customer segmentation, cohort retention analysis, revenue trends, and business recommendations.
-- **[DSA Problem Solutions](https://github.com/itsayushydv/LeetCode-DSA):** A well-documented repository of my daily LeetCode solutions, categorized by topic.
+<!--- - **[DSA Problem Solutions](https://github.com/itsayushydv/LeetCode-DSA):** A well-documented repository of my daily LeetCode solutions, categorized by topic. --->
 
 ---
 
