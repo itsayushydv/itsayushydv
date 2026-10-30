@@ -45,7 +45,7 @@ Data Analyst with experience turning raw data into actionable business insights.
 ## GitHub Stats
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsayushydv&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=itsayushydv&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsayushydv&theme=radical&hide_border=true" alt="GitHub Streak" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsayushydv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
 </div>
